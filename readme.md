@@ -1,0 +1,2 @@
+Esse programa vai dizer se o ano que o usuário digitar é BISSEXTO ou NÂO É.
+Obs: Existe um modo mais simples que ocupa menos espaço de fazer esse código, utilizando módulo (%), porém na hora em que fiz, esqueci como funcionava o módulo e acabei fazendo de um jeito extremamente mais complicado.
